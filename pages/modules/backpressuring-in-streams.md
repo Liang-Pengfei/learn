@@ -366,7 +366,7 @@ The maximum byte size occupied by virtual memory turns out to be approximately
 1.52 gb.
 
 Without streams in place to delegate the backpressure, there is an order of
-magnitude greater of memory space being allocated - a huge margin of
+magnitude greater amount of memory space being allocated - a huge margin of
 difference between the same process!
 
 This experiment shows how optimized and cost-effective Node.js' backpressure
